@@ -30,10 +30,12 @@ paes_2 |>
          paes_histciesoc = hcsoc,
          paes_ciencias = cien)
 
+# anexar comunas
 cut_comuna <- read.csv2("datos/comunas_chile_cut.csv")
 
 paes_3 <- paes_2 |> 
   rename(cut_comuna = codigo_comuna) |> 
   left_join(cut_comuna, by = "cut_comuna")
 
-readr::write_csv2(paes_3, "resultados_paes_comuna_2024.csv")
+# guardar
+readr::write_csv2(paes_3, "resultados/puntajes_paes_comuna_2024.csv")
