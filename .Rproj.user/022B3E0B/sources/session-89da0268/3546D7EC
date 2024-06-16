@@ -1,0 +1,27 @@
+{
+    "id": "3546D7EC",
+    "path": "~/Documents/Apps Shiny/puntajes_prueba_paes/procesar_paes_comunas.R",
+    "project_path": "procesar_paes_comunas.R",
+    "type": "r_source",
+    "hash": "2239757797",
+    "contents": "",
+    "dirty": false,
+    "created": 1718497543354.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "39,0",
+        "scrollLine": "15"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718498566,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718498566498,
+    "read_only": false,
+    "read_only_alternatives": []
+}

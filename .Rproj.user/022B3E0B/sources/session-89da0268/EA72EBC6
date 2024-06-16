@@ -1,0 +1,27 @@
+{
+    "id": "EA72EBC6",
+    "path": "~/Documents/Apps Shiny/puntajes_prueba_paes/obtener_datos_paes.R",
+    "project_path": "obtener_datos_paes.R",
+    "type": "r_source",
+    "hash": "3840674099",
+    "contents": "",
+    "dirty": false,
+    "created": 1718498123406.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled2",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718498182,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718498182558,
+    "read_only": false,
+    "read_only_alternatives": []
+}
